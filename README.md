@@ -1,2 +1,2 @@
-https://api.daily.dev/devcards/52f7b65ceafd4b1babc037e624a22964.png?r=tjb
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/randallerasmus/blob/master/devcard.svg" width="400" alt="Randall Erasmus Profile"/></a>
 
