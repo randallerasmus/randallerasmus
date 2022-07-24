@@ -1,3 +1,2 @@
-- name: @dailydotdev/devcard
-  uses: dailydotdev/action-devcard@2.0.6
+https://api.daily.dev/devcards/52f7b65ceafd4b1babc037e624a22964.png?r=2bk
 
