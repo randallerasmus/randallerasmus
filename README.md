@@ -1,2 +1,2 @@
 <a href="https://app.daily.dev/randallerasmus"><img src="https://api.daily.dev/devcards/52f7b65ceafd4b1babc037e624a22964.png?r=p5r" width="400" alt="Randall's Dev Card"/></a>
-
+Randall Erasmus is a seasoned software developer with expertise in Java, Angular, and Spring technologies. With a background in financial crime investigation, he transitioned to a senior developer role, working on complex backend applications and frontend integrations. Randall is also a certified Oracle Cloud Infrastructure Generative AI Professional, constantly enhancing his skills in modern software development practices. His current projects focus on building robust applications
