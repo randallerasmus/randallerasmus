@@ -1,5 +1,5 @@
 # 💫 About Me:
-Randall Erasmus is a seasoned software developer with expertise in Java, Angular, and Spring technologies. With a background in financial crime investigation, he transitioned to a senior developer role, working on complex backend applications and frontend integrations. Randall is also a certified Oracle Cloud Infrastructure Generative AI Professional, constantly enhancing his skills in modern software development practices. His current projects focus on building robust applications.
+Randall Erasmus is a seasoned software developer with expertise in Java, Angular, and Spring technologies. With a background in financial crime investigation, he transitioned from a police officer into software developing where he is now working on complex backend applications and frontend integrations on huge enterprises. Randall is also a certified Oracle Cloud Infrastructure Generative AI Professional, constantly enhancing his skills in modern software development practices. His drive and commitment is insane and has the attitude that makes him a asset to any team.
 
 
 # 💻 Tech Stack:
